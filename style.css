@@ -1,0 +1,12 @@
+div a {
+    background-color:aliceblue;
+    padding:30px;
+}
+a > h1 {
+    color:blue;
+    background-color: aqua;
+}
+a + a {
+    background-color: brown;
+    font-family: monospace;
+}
